@@ -9,9 +9,8 @@ Vérification des noms vides
 
 Gestion des dettes (liste des clients endettés, annulation des dettes)
 Opérations de transaction (dépôts et retraits)
-Stockage basé sur des fichiers à l’aide de la sérialisation d’objets
+Stockage basé sur des fichiers
 Génération automatique de code client
-Système de menu complet avec sous-menus
 
 Encapsulation (champs privés avec getters/setters)
 Gestion des erreurs
