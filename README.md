@@ -12,17 +12,8 @@ Opérations de transaction (dépôts et retraits)
 Stockage basé sur des fichiers à l’aide de la sérialisation d’objets
 Génération automatique de code client
 Système de menu complet avec sous-menus
-Pour compiler et exécuter cette application, vous devez :
-
-Enregistrez ces fichiers dans un répertoire
-Compilez-les en utilisant : javac *.java
-Exécutez l’application à l’aide de : java Main
-L’application utilise des principes orientés objet appropriés, notamment :
 
 Encapsulation (champs privés avec getters/setters)
-Principe de responsabilité unique (chaque classe a un objectif spécifique)
-Persistance des données (à l’aide des E/S de fichier)
-Organisation propre du code
 Gestion des erreurs
 
 Gestion des Transactions pour suivre toutes les opérations
